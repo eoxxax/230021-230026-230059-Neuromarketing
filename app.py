@@ -702,7 +702,7 @@ with tab4:
     st.markdown("---")
     st.markdown("""
     <div class="info-box">
-    <b>Referensi Dataset:</b> Roesler, O. (2013). EEG Eye State Dataset. UCI Machine Learning Repository.<br>
+    <b>Referensi Dataset:</b> EEG Eye State Dataset.<br>
     <b>Framework:</b> TensorFlow / Keras + Streamlit<br>
     <b>Channels EEG:</b> AF3, AF4, F3, F4, F7, F8, FC5, FC6, T7, T8, P7, P8, O1, O2 (Emotiv EPOC)
     </div>
