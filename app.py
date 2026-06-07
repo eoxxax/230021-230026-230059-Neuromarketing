@@ -207,7 +207,7 @@ with st.sidebar:
     st.markdown("## NeuroMarketing EEG")
     st.markdown("---")
 
-    status_color = "+" if model_loaded else "X"
+    status_color = "✔" if model_loaded else "X"
     status_text  = "Model Siap" if model_loaded else "Model Tidak Ditemukan"
     st.markdown(f"**Status Model:** {status_color} {status_text}")
 
